@@ -5,10 +5,10 @@ This is more of a website to help with home daycares and the tedious planning th
 
 Wireframes: <br>
 
-![Screenshot 2024-09-03 192001](https://github.com/user-attachments/assets/afad2392-69cf-45e8-890e-e493ce84b74f)
-![Screenshot 2024-09-03 191951](https://github.com/user-attachments/assets/8680b82b-827b-4d71-86b8-4c988d411504)
-![Screenshot 2024-09-03 191938](https://github.com/user-attachments/assets/03e1686f-d8d9-4377-acbb-124dea7072f2)
 ![Screenshot 2024-09-03 185913](https://github.com/user-attachments/assets/bae6cbcc-e640-44f1-b54a-1e81f4ae6e45)
+![Screenshot 2024-09-03 191938](https://github.com/user-attachments/assets/03e1686f-d8d9-4377-acbb-124dea7072f2)
+![Screenshot 2024-09-03 191951](https://github.com/user-attachments/assets/8680b82b-827b-4d71-86b8-4c988d411504)
+![Screenshot 2024-09-03 192001](https://github.com/user-attachments/assets/afad2392-69cf-45e8-890e-e493ce84b74f)
 
 Link to Frontend - https://github.com/JimmieSmith1222/daycareful_planner_frontend
 
